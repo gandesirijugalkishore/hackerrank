@@ -5,4 +5,8 @@
 
 3.Subarray Division  ----->https://www.hackerrank.com/challenges/the-birthday-bar/problem
 
+4.Divisible Sum Pairs   ----->   https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=next-challenge&h_v=zen
+
+
+
 
