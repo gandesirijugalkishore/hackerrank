@@ -7,6 +7,10 @@
 
 4.Divisible Sum Pairs   ----->   https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=next-challenge&h_v=zen
 
+5.Sales by Match  ------>        https://www.hackerrank.com/challenges/sock-merchant/problem
+ 
+
+
 
 
 
