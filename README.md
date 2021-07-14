@@ -11,7 +11,7 @@
 
 5.Cats and DOgs  ------->https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
  
-
+6. The Hurdle Race  -------->  https://www.hackerrank.com/challenges/the-hurdle-race/problem
 
 
 
